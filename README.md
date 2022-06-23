@@ -1,6 +1,6 @@
 # Effectiveness of Pitch Sequencing
 
-Hello vv
+Hello
 
 ## Abstract
 
